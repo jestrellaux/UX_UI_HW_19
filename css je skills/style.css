@@ -60,6 +60,16 @@ body {
 
 }
 
+button {
+  background-color: hsla(98, 65%, 87%, 0.8);
+  padding: 5px;
+  margin-top: 5%;
+  border:solid 2px #4E4C67;
+  color: #4E4C67;
+}
+
+#image{
+  display:none;}
 
 /* First Category Grid IDs (red outline)*/
 .categoryGrid {
